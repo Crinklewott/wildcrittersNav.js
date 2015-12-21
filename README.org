@@ -1,0 +1,19 @@
+This UserScript should allow you to navigate WildCritters pools and
+images in a slightly nicer fashion...
+
+When viewing an image, if you click it, you get a fullscreen
+image. Images will remain fullscreen until you click one again.
+
+When you are looking at a pool with multiple images, you can navigate
+between images with the arrow keys.
+
+I'm kinda sad that this isn't default functionality, but hey! At least
+it wasn't too difficult to add.
+
+* Installation
+To install in [[https://www.mozilla.org/en-US/firefox/new/][Firefox]], you first need the extension "[[https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/][Greasemonkey]]",
+then you can simply navigate [[https://github.com/thingywhat/wildcrittersNav.js/raw/master/wildcrittersNav.user.js][here]] to install the script.
+
+To install on Chrome, you need to first download the script from [[https://github.com/thingywhat/wildcrittersNav.js/raw/master/wildcrittersNav.user.js][here]],
+then after visiting the settings page, drag and drop the script onto
+it to install it.
